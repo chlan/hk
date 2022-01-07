@@ -1,0 +1,25 @@
+*.class
+target
+/bin/
+.settings/
+.project
+.classpath
+
+.env
+*.log
+
+# Vagrant
+.vagrant/
+vagrant
+
+# Emacs
+*~
+
+# Visual Studio Code
+.factorypath
+
+# vi
+*.swp
+
+# Python env
+env/
