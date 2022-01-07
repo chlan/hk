@@ -8,6 +8,9 @@ target
 .env
 *.log
 
+fragen*.xlsx
+bewertung*.xlsx
+
 # Vagrant
 .vagrant/
 vagrant
